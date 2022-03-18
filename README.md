@@ -1,5 +1,7 @@
 # Diabetes
 
+ ![](pic/diabetes.png)
+
 ## Goal:
 The goal of this project was to analyze the diabetes dataset and find out more about this diasease. The purpose
 	was to know how different aspects of our lifestyle can impact our health and can cause diabetes.
