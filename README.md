@@ -1,6 +1,6 @@
 # Diabetes
 
- ![](pic/diabetes.png)
+ ![](diabetes.png)
 
 ## Goal:
 The goal of this project was to analyze the diabetes dataset and find out more about this diasease. The purpose
